@@ -13,7 +13,7 @@ CFTree/
 │   │   ├── assets/       # Images and static assets
 │   │   └── ...
 │   ├── public/
-│   │   └── data/         # CSV data files
+│   │   └── data/         
 │   └── package.json
 ├── fastAPIbackend/       # Python FastAPI backend
 │   ├── app/
@@ -98,15 +98,6 @@ For further instructions on how to add a new dataset, please refer to the [`how_
 
 This project is licensed under the terms specified in the LICENSE file.
 
-## Troubleshooting
-
-### Common Issues
-
-1. **OpenSSL Error**: If you encounter `digital envelope routines::unsupported` error, make sure you're using `react-scripts` version 5.0.1 or higher.
-
-2. **CORS Issues**: Ensure the FastAPI backend is running on port 5000 and the proxy configuration in `package.json` is correct.
-
-3. **Missing Dependencies**: Run `npm install` in the frontend directory and install Python packages for the backend.
 
 ## Contact
 
