@@ -1,0 +1,98 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .visualization {
+    width: 90%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+  }
+
+
+
+.editable-personal-info div {
+    margin-bottom: 10px;
+  }
+  
+  .editable-personal-info label {
+    margin-right: 5px;
+  }
+  
+  .editable-personal-info input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .editable-personal-info button {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.toggle-btn:hover {
+  background-color: #483d8b; 
+}
+
+.cards-container.expanded {
+  max-height: 500px; 
+  opacity: 1;
+}
+
+  justify-content: space-between; 
+  flex-wrap: nowrap; 
+  width: 100%;
+  padding: 10px;
+  gap: 20px; 
+  position: relative;
+  top: 0px;
+  left: 50px;
+}
+
+
+  position: relative;
+  top: 15px;
+  left: 20px;
+  
+  z-index: 10;
+  background: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+
+  width: auto; 
+  max-width: 500px; 
+
+  margin-left: auto; 
+}
+
+
+.toggle-btn,
+.showallattributes-btn {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+  white-space: nowrap; 
+}
+
+.toggle-btn:hover,
+.showallattributes-btn:hover {
+  background-color: #0056b3;
+}

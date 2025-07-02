@@ -1,0 +1,108 @@
+.attribute-text {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.attribute-text.compact-label {
+    font-size: 11px;
+}
+
+.attribute-bar-container {
+    display: inline-flex;
+    align-items: center;
+    height: 14px;
+    position: relative;
+}
+
+.attribute-bar {
+    width: 8px;
+    height: 12px;
+    margin-right: 2px;
+    border: 1px solid #333;
+}
+
+.attribute-bar.compact-bar {
+    width: 6px;
+    height: 10px;
+    margin-right: 1px;
+    border-width: 0.5px;
+}
+
+.legend-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.legend-container.compact-legend-container {
+    gap: 5px;
+}
+
+.legend-box {
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.legend-box.compact-legend-box {
+    width: 18px;
+    height: 18px;
+    font-size: 10px;
+}
+
+.legend-box:hover {
+    transform: scale(1.2);
+}
+
+.legend-box.active {
+    border: 2px solid black;
+}
+
+.compact-node-label {
+    font-size: 8px !important;
+}
+
+.compact-button-label {
+    font-size: 10px !important;
+}
+
+.compact-axis-label {
+    font-size: 8px !important;
+}
+
+.compact-node rect {
+    stroke-width: 0.5px !important;
+}
+
+.compact-node .octagon-indicator polygon {
+    stroke-width: 0.5px !important;
+}
+
+.compact-node text {
+    font-size: 7px !important;
+}
+
+.compact-node .parallel-coordinates text {
+    font-size: 7px !important;
+}
+
+.compact-node .parallel-coordinates line,
+.compact-node .parallel-coordinates path {
+    stroke-width: 1px !important;
+}
+
+.compact-node .octagon-indicator text {
+    font-size: 7px !important;
+}
+
+.compact-node .parallel-coordinates {
+    margin-top: 2px !important;
+}

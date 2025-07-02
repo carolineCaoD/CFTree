@@ -1,0 +1,1873 @@
+{
+  "attribute": "Root",
+  "indices": [],
+  "children": [
+    {
+      "attribute": "hours_per_week",
+      "count": 42,
+      "indices": [
+        1,
+        4,
+        8,
+        9,
+        11,
+        12,
+        16,
+        17,
+        21,
+        29,
+        32,
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        46,
+        52,
+        54,
+        60,
+        61,
+        64,
+        65,
+        66,
+        68,
+        69,
+        70,
+        74,
+        84,
+        86,
+        89,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        103
+      ],
+      "original_indices": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "2",
+        "2",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "9",
+        "9",
+        "9",
+        "11",
+        "11",
+        "11",
+        "11",
+        "11",
+        "11",
+        "11",
+        "11"
+      ],
+      "children": [
+        {
+          "attribute": "age",
+          "count": 19,
+          "indices": [
+            8,
+            32,
+            36,
+            39,
+            40,
+            41,
+            43,
+            44,
+            52,
+            60,
+            61,
+            64,
+            65,
+            66,
+            68,
+            69,
+            74,
+            89,
+            94
+          ],
+          "original_indices": [
+            "1",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "5",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "9",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "education",
+              "count": 8,
+              "indices": [
+                32,
+                36,
+                39,
+                40,
+                61,
+                66,
+                74,
+                89
+              ],
+              "original_indices": [
+                "4",
+                "4",
+                "4",
+                "4",
+                "7",
+                "7",
+                "7",
+                "9"
+              ],
+              "children": [
+                {
+                  "attribute": "occupation",
+                  "count": 2,
+                  "indices": [
+                    66,
+                    74
+                  ],
+                  "original_indices": [
+                    "7",
+                    "7"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "workclass",
+                      "count": 1,
+                      "indices": [
+                        66
+                      ],
+                      "original_indices": [
+                        "7"
+                      ],
+                      "children": [
+                        {
+                          "attribute": "income",
+                          "count": 1,
+                          "indices": [
+                            66
+                          ],
+                          "original_indices": [
+                            "7"
+                          ],
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        74
+                      ],
+                      "original_indices": [
+                        "7"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "marital_status",
+                  "count": 2,
+                  "indices": [
+                    32,
+                    89
+                  ],
+                  "original_indices": [
+                    "4",
+                    "9"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 2,
+                      "indices": [
+                        32,
+                        89
+                      ],
+                      "original_indices": [
+                        "4",
+                        "9"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "gender",
+                  "count": 1,
+                  "indices": [
+                    39
+                  ],
+                  "original_indices": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        39
+                      ],
+                      "original_indices": [
+                        "4"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "income",
+                  "count": 2,
+                  "indices": [
+                    36,
+                    61
+                  ],
+                  "original_indices": [
+                    "4",
+                    "7"
+                  ],
+                  "children": []
+                },
+                {
+                  "attribute": "null",
+                  "count": 1,
+                  "indices": [
+                    40
+                  ],
+                  "original_indices": [
+                    "4",
+                    "4",
+                    "4",
+                    "4",
+                    "7",
+                    "7",
+                    "7",
+                    "9"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "occupation",
+              "count": 2,
+              "indices": [
+                43,
+                60
+              ],
+              "original_indices": [
+                "4",
+                "7"
+              ],
+              "children": [
+                {
+                  "attribute": "marital_status",
+                  "count": 1,
+                  "indices": [
+                    43
+                  ],
+                  "original_indices": [
+                    "4"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        43
+                      ],
+                      "original_indices": [
+                        "4"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "income",
+                  "count": 1,
+                  "indices": [
+                    60
+                  ],
+                  "original_indices": [
+                    "7"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "workclass",
+              "count": 2,
+              "indices": [
+                41,
+                64
+              ],
+              "original_indices": [
+                "4",
+                "7"
+              ],
+              "children": [
+                {
+                  "attribute": "marital_status",
+                  "count": 2,
+                  "indices": [
+                    41,
+                    64
+                  ],
+                  "original_indices": [
+                    "4",
+                    "7"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 2,
+                      "indices": [
+                        41,
+                        64
+                      ],
+                      "original_indices": [
+                        "4",
+                        "7"
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "attribute": "marital_status",
+              "count": 4,
+              "indices": [
+                44,
+                65,
+                68,
+                69
+              ],
+              "original_indices": [
+                "4",
+                "7",
+                "7",
+                "7"
+              ],
+              "children": [
+                {
+                  "attribute": "gender",
+                  "count": 1,
+                  "indices": [
+                    65
+                  ],
+                  "original_indices": [
+                    "7"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        65
+                      ],
+                      "original_indices": [
+                        "7"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "race",
+                  "count": 1,
+                  "indices": [
+                    68
+                  ],
+                  "original_indices": [
+                    "7"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        68
+                      ],
+                      "original_indices": [
+                        "7"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "income",
+                  "count": 2,
+                  "indices": [
+                    44,
+                    69
+                  ],
+                  "original_indices": [
+                    "4",
+                    "7"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "income",
+              "count": 2,
+              "indices": [
+                8,
+                52
+              ],
+              "original_indices": [
+                "1",
+                "5"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 1,
+              "indices": [
+                94
+              ],
+              "original_indices": [
+                "1",
+                "4",
+                "4",
+                "4",
+                "4",
+                "4",
+                "4",
+                "4",
+                "5",
+                "7",
+                "7",
+                "7",
+                "7",
+                "7",
+                "7",
+                "7",
+                "7",
+                "9",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "education",
+          "count": 9,
+          "indices": [
+            1,
+            12,
+            38,
+            42,
+            70,
+            84,
+            86,
+            93,
+            97
+          ],
+          "original_indices": [
+            "1",
+            "1",
+            "4",
+            "4",
+            "7",
+            "9",
+            "9",
+            "11",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "occupation",
+              "count": 2,
+              "indices": [
+                70,
+                86
+              ],
+              "original_indices": [
+                "7",
+                "9"
+              ],
+              "children": [
+                {
+                  "attribute": "marital_status",
+                  "count": 2,
+                  "indices": [
+                    70,
+                    86
+                  ],
+                  "original_indices": [
+                    "7",
+                    "9"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "race",
+                      "count": 1,
+                      "indices": [
+                        70
+                      ],
+                      "original_indices": [
+                        "7"
+                      ],
+                      "children": []
+                    },
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        86
+                      ],
+                      "original_indices": [
+                        "9"
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "attribute": "marital_status",
+              "count": 3,
+              "indices": [
+                38,
+                42,
+                84
+              ],
+              "original_indices": [
+                "4",
+                "4",
+                "9"
+              ],
+              "children": [
+                {
+                  "attribute": "gender",
+                  "count": 1,
+                  "indices": [
+                    84
+                  ],
+                  "original_indices": [
+                    "9"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        84
+                      ],
+                      "original_indices": [
+                        "9"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "income",
+                  "count": 2,
+                  "indices": [
+                    38,
+                    42
+                  ],
+                  "original_indices": [
+                    "4",
+                    "4"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "income",
+              "count": 2,
+              "indices": [
+                1,
+                12
+              ],
+              "original_indices": [
+                "1",
+                "1"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 2,
+              "indices": [
+                93,
+                97
+              ],
+              "original_indices": [
+                "1",
+                "1",
+                "4",
+                "4",
+                "7",
+                "9",
+                "9",
+                "11",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "occupation",
+          "count": 3,
+          "indices": [
+            17,
+            21,
+            29
+          ],
+          "original_indices": [
+            "2",
+            "2",
+            "2"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 3,
+              "indices": [
+                17,
+                21,
+                29
+              ],
+              "original_indices": [
+                "2",
+                "2",
+                "2"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "workclass",
+          "count": 3,
+          "indices": [
+            4,
+            16,
+            103
+          ],
+          "original_indices": [
+            "1",
+            "2",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 2,
+              "indices": [
+                4,
+                16
+              ],
+              "original_indices": [
+                "1",
+                "2"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 1,
+              "indices": [
+                103
+              ],
+              "original_indices": [
+                "1",
+                "2",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "marital_status",
+          "count": 3,
+          "indices": [
+            9,
+            96,
+            98
+          ],
+          "original_indices": [
+            "1",
+            "11",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 1,
+              "indices": [
+                9
+              ],
+              "original_indices": [
+                "1"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 2,
+              "indices": [
+                96,
+                98
+              ],
+              "original_indices": [
+                "1",
+                "11",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "gender",
+          "count": 3,
+          "indices": [
+            11,
+            46,
+            54
+          ],
+          "original_indices": [
+            "1",
+            "5",
+            "5"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 3,
+              "indices": [
+                11,
+                46,
+                54
+              ],
+              "original_indices": [
+                "1",
+                "5",
+                "5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "race",
+          "count": 1,
+          "indices": [
+            95
+          ],
+          "original_indices": [
+            "11"
+          ],
+          "children": []
+        },
+        {
+          "attribute": "null",
+          "count": 1,
+          "indices": [
+            92
+          ],
+          "original_indices": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "2",
+            "2",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "4",
+            "5",
+            "5",
+            "5",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "7",
+            "9",
+            "9",
+            "9",
+            "11",
+            "11",
+            "11",
+            "11",
+            "11",
+            "11",
+            "11",
+            "11"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "attribute": "age",
+      "count": 36,
+      "indices": [
+        0,
+        2,
+        5,
+        6,
+        10,
+        13,
+        14,
+        15,
+        18,
+        20,
+        24,
+        25,
+        26,
+        27,
+        31,
+        35,
+        47,
+        48,
+        49,
+        53,
+        55,
+        56,
+        57,
+        58,
+        59,
+        62,
+        63,
+        67,
+        71,
+        72,
+        73,
+        85,
+        90,
+        99,
+        101,
+        102
+      ],
+      "original_indices": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "7",
+        "9",
+        "11",
+        "11",
+        "11",
+        "11"
+      ],
+      "children": [
+        {
+          "attribute": "education",
+          "count": 8,
+          "indices": [
+            5,
+            53,
+            56,
+            63,
+            67,
+            73,
+            85,
+            99
+          ],
+          "original_indices": [
+            "1",
+            "5",
+            "5",
+            "7",
+            "7",
+            "7",
+            "9",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "occupation",
+              "count": 3,
+              "indices": [
+                67,
+                73,
+                85
+              ],
+              "original_indices": [
+                "7",
+                "7",
+                "9"
+              ],
+              "children": [
+                {
+                  "attribute": "workclass",
+                  "count": 1,
+                  "indices": [
+                    73
+                  ],
+                  "original_indices": [
+                    "7"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "marital_status",
+                      "count": 1,
+                      "indices": [
+                        73
+                      ],
+                      "original_indices": [
+                        "7"
+                      ],
+                      "children": [
+                        {
+                          "attribute": "income",
+                          "count": 1,
+                          "indices": [
+                            73
+                          ],
+                          "original_indices": [
+                            "7"
+                          ],
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attribute": "marital_status",
+                  "count": 1,
+                  "indices": [
+                    85
+                  ],
+                  "original_indices": [
+                    "9"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        85
+                      ],
+                      "original_indices": [
+                        "9"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "income",
+                  "count": 1,
+                  "indices": [
+                    67
+                  ],
+                  "original_indices": [
+                    "7"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "marital_status",
+              "count": 1,
+              "indices": [
+                63
+              ],
+              "original_indices": [
+                "7"
+              ],
+              "children": [
+                {
+                  "attribute": "race",
+                  "count": 1,
+                  "indices": [
+                    63
+                  ],
+                  "original_indices": [
+                    "7"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        63
+                      ],
+                      "original_indices": [
+                        "7"
+                      ],
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "attribute": "income",
+              "count": 3,
+              "indices": [
+                5,
+                53,
+                56
+              ],
+              "original_indices": [
+                "1",
+                "5",
+                "5"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 1,
+              "indices": [
+                99
+              ],
+              "original_indices": [
+                "1",
+                "5",
+                "5",
+                "7",
+                "7",
+                "7",
+                "9",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "occupation",
+          "count": 3,
+          "indices": [
+            35,
+            49,
+            90
+          ],
+          "original_indices": [
+            "4",
+            "5",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "marital_status",
+              "count": 1,
+              "indices": [
+                35
+              ],
+              "original_indices": [
+                "4"
+              ],
+              "children": [
+                {
+                  "attribute": "income",
+                  "count": 1,
+                  "indices": [
+                    35
+                  ],
+                  "original_indices": [
+                    "4"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "income",
+              "count": 1,
+              "indices": [
+                49
+              ],
+              "original_indices": [
+                "5"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 1,
+              "indices": [
+                90
+              ],
+              "original_indices": [
+                "4",
+                "5",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "marital_status",
+          "count": 7,
+          "indices": [
+            31,
+            55,
+            62,
+            71,
+            72,
+            101,
+            102
+          ],
+          "original_indices": [
+            "4",
+            "5",
+            "7",
+            "7",
+            "7",
+            "11",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 5,
+              "indices": [
+                31,
+                55,
+                62,
+                71,
+                72
+              ],
+              "original_indices": [
+                "4",
+                "5",
+                "7",
+                "7",
+                "7"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 2,
+              "indices": [
+                101,
+                102
+              ],
+              "original_indices": [
+                "4",
+                "5",
+                "7",
+                "7",
+                "7",
+                "11",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "gender",
+          "count": 2,
+          "indices": [
+            15,
+            26
+          ],
+          "original_indices": [
+            "2",
+            "2"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 2,
+              "indices": [
+                15,
+                26
+              ],
+              "original_indices": [
+                "2",
+                "2"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "race",
+          "count": 3,
+          "indices": [
+            13,
+            14,
+            27
+          ],
+          "original_indices": [
+            "1",
+            "1",
+            "2"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 3,
+              "indices": [
+                13,
+                14,
+                27
+              ],
+              "original_indices": [
+                "1",
+                "1",
+                "2"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "income",
+          "count": 13,
+          "indices": [
+            0,
+            2,
+            6,
+            10,
+            18,
+            20,
+            24,
+            25,
+            47,
+            48,
+            57,
+            58,
+            59
+          ],
+          "original_indices": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "2",
+            "2",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "attribute": "education",
+      "count": 17,
+      "indices": [
+        19,
+        22,
+        30,
+        37,
+        45,
+        50,
+        51,
+        75,
+        77,
+        78,
+        79,
+        80,
+        82,
+        83,
+        87,
+        88,
+        91
+      ],
+      "original_indices": [
+        "2",
+        "2",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "11"
+      ],
+      "children": [
+        {
+          "attribute": "occupation",
+          "count": 4,
+          "indices": [
+            75,
+            79,
+            88,
+            91
+          ],
+          "original_indices": [
+            "9",
+            "9",
+            "9",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "marital_status",
+              "count": 2,
+              "indices": [
+                79,
+                88
+              ],
+              "original_indices": [
+                "9",
+                "9"
+              ],
+              "children": [
+                {
+                  "attribute": "gender",
+                  "count": 1,
+                  "indices": [
+                    88
+                  ],
+                  "original_indices": [
+                    "9"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        88
+                      ],
+                      "original_indices": [
+                        "9"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "income",
+                  "count": 1,
+                  "indices": [
+                    79
+                  ],
+                  "original_indices": [
+                    "9"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "null",
+              "count": 2,
+              "indices": [
+                75,
+                91
+              ],
+              "original_indices": [
+                "9",
+                "9",
+                "9",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "workclass",
+          "count": 1,
+          "indices": [
+            87
+          ],
+          "original_indices": [
+            "9"
+          ],
+          "children": [
+            {
+              "attribute": "marital_status",
+              "count": 1,
+              "indices": [
+                87
+              ],
+              "original_indices": [
+                "9"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "marital_status",
+          "count": 10,
+          "indices": [
+            30,
+            37,
+            45,
+            50,
+            51,
+            77,
+            78,
+            80,
+            82,
+            83
+          ],
+          "original_indices": [
+            "4",
+            "4",
+            "5",
+            "5",
+            "5",
+            "9",
+            "9",
+            "9",
+            "9",
+            "9"
+          ],
+          "children": [
+            {
+              "attribute": "gender",
+              "count": 4,
+              "indices": [
+                77,
+                78,
+                82,
+                83
+              ],
+              "original_indices": [
+                "9",
+                "9",
+                "9",
+                "9"
+              ],
+              "children": [
+                {
+                  "attribute": "race",
+                  "count": 1,
+                  "indices": [
+                    83
+                  ],
+                  "original_indices": [
+                    "9"
+                  ],
+                  "children": [
+                    {
+                      "attribute": "income",
+                      "count": 1,
+                      "indices": [
+                        83
+                      ],
+                      "original_indices": [
+                        "9"
+                      ],
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "attribute": "income",
+                  "count": 3,
+                  "indices": [
+                    77,
+                    78,
+                    82
+                  ],
+                  "original_indices": [
+                    "9",
+                    "9",
+                    "9"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "race",
+              "count": 2,
+              "indices": [
+                37,
+                80
+              ],
+              "original_indices": [
+                "4",
+                "9"
+              ],
+              "children": [
+                {
+                  "attribute": "income",
+                  "count": 1,
+                  "indices": [
+                    37
+                  ],
+                  "original_indices": [
+                    "4"
+                  ],
+                  "children": []
+                },
+                {
+                  "attribute": "null",
+                  "count": 1,
+                  "indices": [
+                    80
+                  ],
+                  "original_indices": [
+                    "4",
+                    "9"
+                  ],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "attribute": "income",
+              "count": 4,
+              "indices": [
+                30,
+                45,
+                50,
+                51
+              ],
+              "original_indices": [
+                "4",
+                "5",
+                "5",
+                "5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "income",
+          "count": 2,
+          "indices": [
+            19,
+            22
+          ],
+          "original_indices": [
+            "2",
+            "2"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "attribute": "occupation",
+      "count": 7,
+      "indices": [
+        7,
+        28,
+        33,
+        34,
+        76,
+        81,
+        100
+      ],
+      "original_indices": [
+        "1",
+        "2",
+        "4",
+        "4",
+        "9",
+        "9",
+        "11"
+      ],
+      "children": [
+        {
+          "attribute": "workclass",
+          "count": 2,
+          "indices": [
+            33,
+            34
+          ],
+          "original_indices": [
+            "4",
+            "4"
+          ],
+          "children": [
+            {
+              "attribute": "marital_status",
+              "count": 2,
+              "indices": [
+                33,
+                34
+              ],
+              "original_indices": [
+                "4",
+                "4"
+              ],
+              "children": [
+                {
+                  "attribute": "income",
+                  "count": 2,
+                  "indices": [
+                    33,
+                    34
+                  ],
+                  "original_indices": [
+                    "4",
+                    "4"
+                  ],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attribute": "marital_status",
+          "count": 2,
+          "indices": [
+            76,
+            81
+          ],
+          "original_indices": [
+            "9",
+            "9"
+          ],
+          "children": [
+            {
+              "attribute": "gender",
+              "count": 1,
+              "indices": [
+                81
+              ],
+              "original_indices": [
+                "9"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "income",
+              "count": 1,
+              "indices": [
+                76
+              ],
+              "original_indices": [
+                "9"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "gender",
+          "count": 2,
+          "indices": [
+            28,
+            100
+          ],
+          "original_indices": [
+            "2",
+            "11"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 1,
+              "indices": [
+                28
+              ],
+              "original_indices": [
+                "2"
+              ],
+              "children": []
+            },
+            {
+              "attribute": "null",
+              "count": 1,
+              "indices": [
+                100
+              ],
+              "original_indices": [
+                "2",
+                "11"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "income",
+          "count": 1,
+          "indices": [
+            7
+          ],
+          "original_indices": [
+            "1"
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "attribute": "workclass",
+      "count": 3,
+      "indices": [
+        3,
+        23,
+        104
+      ],
+      "original_indices": [
+        "1",
+        "2",
+        "11"
+      ],
+      "children": [
+        {
+          "attribute": "gender",
+          "count": 1,
+          "indices": [
+            23
+          ],
+          "original_indices": [
+            "2"
+          ],
+          "children": [
+            {
+              "attribute": "income",
+              "count": 1,
+              "indices": [
+                23
+              ],
+              "original_indices": [
+                "2"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "attribute": "income",
+          "count": 1,
+          "indices": [
+            3
+          ],
+          "original_indices": [
+            "1"
+          ],
+          "children": []
+        },
+        {
+          "attribute": "null",
+          "count": 1,
+          "indices": [
+            104
+          ],
+          "original_indices": [
+            "1",
+            "2",
+            "11"
+          ],
+          "children": []
+        }
+      ]
+    }
+  ]
+}

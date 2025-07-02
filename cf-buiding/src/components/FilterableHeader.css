@@ -1,0 +1,68 @@
+.filter-header-container {
+    width: 100%;
+    padding: 10px;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+}
+
+.filter-header-container.compact-layout {
+    padding: 5px;
+}
+
+.filter-header {
+    display: flex;
+    gap: 10px;
+    width: max-content;
+    padding-right: 10px;
+}
+
+.filter-header-container.compact-layout .compact-header {
+    gap: 5px;
+}
+
+.filter-header-cell {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    flex: 0 0 auto;
+    min-width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.filter-header-container.compact-layout .compact-cell {
+    padding: 5px 8px;
+    min-width: 80px;
+    font-size: 12px;
+}
+
+.filter-header-cell label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.filter-header-cell.compact-cell label {
+    overflow: visible;
+}
+
+.filter-header-container.compact-layout .compact-label {
+    gap: 3px;
+    font-size: 12px;
+}
+
+.filter-header-container.compact-layout .compact-checkbox {
+    transform: scale(0.9);
+    margin-right: 2px;
+}
