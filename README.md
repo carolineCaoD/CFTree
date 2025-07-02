@@ -82,7 +82,8 @@ The `incomeCFs.ipynb` notebook is provided to generate the counterfactual explan
 
 ## Usage
 
-1. **Start both servers**: Make sure both the React frontend (port 3000) and FastAPI backend (port 5000) are running
+**Start both servers**: Make sure both the React frontend (port 3000) and FastAPI backend (port 8000) are running
+The application will open at `http://localhost:3000`
 
 ## Data
 
